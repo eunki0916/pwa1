@@ -1,0 +1,54 @@
+{
+    "name":"내가만든 sns",
+    "short_name":"sns",
+    "background_color": "#ffffff",
+    "description": "pwa 연습페이지",
+    "dir": "auto",
+    "display": "standalone",
+    "lang": "ko",
+    "orientation": "any",
+    "gcm_sender_id":"49625052041",
+    "gcm_user_visible_only":true,
+    "scope": "/",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "categories": [],
+    "screenshots": [
+      {
+        "src": "images/screenshot1.png",
+        "size": "414x833",
+        "type": "image/png"
+      },
+      {
+        "src": "images/screenshot2.png",
+        "size": "411x834",
+        "type": "image/png"
+      },
+      {
+        "src": "images/screenshot3.png",
+        "size": "414x831",
+        "type": "image/png"
+      }
+    ],
+    "icons": [
+      {
+        "src": "images/icon.png",
+        "sizes": "512x512",
+        "purpose": "any"
+      },
+      {
+        "src": "images/icon2.png",
+        "sizes": "128x128",
+        "purpose": "maskable"
+      },
+      {
+        "src": "images/icon3.png",
+        "sizes": "48x48",
+        "purpose": "maskable"
+      }
+    ],
+    "shortcuts": [
+      
+    ]
+
+}
