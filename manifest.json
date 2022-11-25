@@ -9,8 +9,8 @@
     "orientation": "any",
     "gcm_sender_id":"49625052041",
     "gcm_user_visible_only":true,
-    "scope": "/",
-    "start_url": "/",
+    "scope": "https://eunki0916.github.io/pwa1/",
+    "start_url": "https://eunki0916.github.io/pwa1/",
     "theme_color": "#ffffff",
     "categories": [],
     "screenshots": [
