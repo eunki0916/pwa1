@@ -13,7 +13,7 @@
       if ("serviceWorker" in navigator) {
         // 서비스워커 있을 때 (서비스워커 지원여부)
         navigator.serviceWorker
-          .register("sw.js")
+          .register("service-worker.js")
           .then(function (succes) {
             console.log("sw 설치성공", succes);
           })
